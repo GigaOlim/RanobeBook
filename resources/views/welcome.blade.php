@@ -7,7 +7,7 @@
             <div class="ranobe-book">
                 @foreach ($books as $book)
                     <a class="card book" href="{{ route('book.show', $book->id)}}" style="width: 18rem;">
-                        <img src="img/istoriya_gruppirovki_dolg.jpg" class="card-img-top" alt="...">
+                        <img src="img/gigachad.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-text">{{ $book->tittle }}</h5>
                         </div>
