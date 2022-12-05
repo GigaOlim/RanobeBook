@@ -1,0 +1,38 @@
+*,
+*:after,
+*:before {
+    box-sizing: border-box;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+.text-white{
+    margin-top: 18%;
+}
+
+.fa-facebook-f:before {
+    content: "\f39e";
+}
+
+.fa-twitter:before {
+    content: "\f099";
+}
+
+.fa-google:before {
+    content: "\f1a0";
+}
+
+.fa-instagram:before {
+    content: "\f16d";
+}
+
+
+
