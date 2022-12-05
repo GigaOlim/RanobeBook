@@ -8,7 +8,7 @@
                     <div class="book-page-item-name">
                     </div>
                     <div class="book-page-item-image">
-                        <img src="../img/istoriya_gruppirovki_dolg.jpg" alt="">
+                        <img src="../gigachad.jpg" alt="">
                     </div>
                 </div>
                 @if(!is_null($book->volumes->first()))
@@ -21,7 +21,7 @@
             <div class="book-info">
                 <div class="book-info-item">
                     <p class="info-item__label">Тип</p>
-                    <p class="info-item_title">Манхва</p>
+                    <p class="info-item_title">Корея</p>
                 </div>
                 <div class="book-info-item">
                     <p class="info-item__label">Год резлиза</p>
@@ -29,7 +29,7 @@
                 </div>
                 <div class="book-info-item">
                     <p class="info-item__label">Статус тайтла</p>
-                    <p class="info-item_title">Онгоинг</p>
+                    <p class="info-item_title">Завершен</p>
                 </div>
                 <div class="book-info-item">
                     <p class="info-item__label">Статус перевода</p>
