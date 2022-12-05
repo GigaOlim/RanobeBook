@@ -3,7 +3,6 @@
 @section('content')
     <div class="row justify-content-center">
         <div class="col-md-8">
-            <h3 class="name">Обновленные</h3>
             <div class="ranobe-book">
                 @foreach ($books as $book)
                     <a class="card book" href="{{ route('book.show', $book->id)}}" style="width: 18rem;">
